@@ -70,7 +70,7 @@ namespace object2
 		}
 	}
 	#endif
-	
+	//
 	
 	class Rect
 	{
